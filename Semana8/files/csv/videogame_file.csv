@@ -1,6 +1,8 @@
-name	genre	developers	esrb_rating
-The Legend of Zelda: Breath of the Wild	Aventura, Acción, RPG	Nintendo EPD	E10+
-Red Dead Redemption 2	Acción, Mundo Abierto	Rockstar Games	M
-God of War (2018)	Acción, Aventura	Santa Monica Studio	M
-Elden Ring	RPG, Acción	FromSoftware	M
-Minecraft	Sandbox, Supervivencia	Mojang Studios	E10+
+name,genre,developers,esrb_rating
+The Legend of Zelda: Breath of the Wild,"Aventura, Acción, RPG",Nintendo EPD,E10+
+Red Dead Redemption 2,"Acción, Mundo Abierto",Rockstar Games,M
+God of War (2018),"Acción, Aventura",Santa Monica Studio,M
+Elden Ring,"RPG, Acción",FromSoftware,M
+Minecraft,"Sandbox, Supervivencia",Mojang Studios,E10+
+test,test,test,test
+test2,test2,test2,test2
