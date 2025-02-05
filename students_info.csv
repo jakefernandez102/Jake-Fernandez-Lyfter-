@@ -1,0 +1,4 @@
+name,group,grades
+Jake,11-1,"[{""math"": 90, ""english"": 94, ""science"": 98}]"
+Steve,11-2,"[{""math"": 91, ""english"": 95, ""science"": 98}]"
+Other,11-3,"[{""math"": 100, ""english"": 89, ""science"": 88}]"
