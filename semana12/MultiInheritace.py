@@ -8,15 +8,12 @@ from abc import  abstractmethod
 
 # Ejemplo
 
-
 class SpeakHability:
-    @abstractmethod
     def speak(self,message):
         print(message)
 
 
 class WalkHability:
-    @abstractmethod
     def walk(self,name,direction):
         print(f"{name} is moving to {direction}")
 
